@@ -12,5 +12,5 @@ Il y a 4 fichiers csv, un fichier train, un fichier train updtate qui contient l
 <br/>train_updates_20220929.csv : Modification fichier d'entrainement <br/>
 <br/>Predict_enz_nettoyage.ipynb : Notebook<br/>
 <br/>logarithmic_transformation-skew.ipynb : Partie du notebook soumit sur kaggle <br/>
-<br/>Sample_submission : 
+<br/>Sample_submission : 2chantillon de la séquence <br/>
 <br/>prediction_tm.csv : Ce fichier est le résultat de la prédiction de la tm en fonction de la séquence<br/>
