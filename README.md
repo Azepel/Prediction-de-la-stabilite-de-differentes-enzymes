@@ -6,3 +6,6 @@ Le lien pour la compétition se trouve ici : https://www.kaggle.com/competitions
 Sur ce lien vous trouverez le contexte de la compétition ainsi que les prix, et les participations des autres participants. Vous pouvez également trouver les données sous forme de fichier csv. 
 
 Il y a 4 fichiers csv, un fichier train, un fichier train updtate qui contient les modifications faites sur certaines données, un fichier test afin d'avoir les séquences et les pH des éléments à tester et un fichier de soumissions qui contiendra la cible obtenu pour les séquences test dans un ordre décroissant. 
+
+
+prediction_tm.csv : Ce fichier est le résultat de la prédiction de la tm en fonction de la séquence
