@@ -9,4 +9,5 @@ Il y a 4 fichiers csv, un fichier train, un fichier train updtate qui contient l
 
 train.csv: Fichier des entrainements
 test.csv : Fichier des tm à prédire
+train_updates_20220929.csv = Modification fichier d'entrainement 
 prediction_tm.csv : Ce fichier est le résultat de la prédiction de la tm en fonction de la séquence
