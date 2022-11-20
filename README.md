@@ -7,5 +7,6 @@ Sur ce lien vous trouverez le contexte de la compétition ainsi que les prix, et
 
 Il y a 4 fichiers csv, un fichier train, un fichier train updtate qui contient les modifications faites sur certaines données, un fichier test afin d'avoir les séquences et les pH des éléments à tester et un fichier de soumissions qui contiendra la cible obtenu pour les séquences test dans un ordre décroissant. 
 
-
+train.csv: Fichier des entrainements
+test.csv : Fichier des tm à prédire
 prediction_tm.csv : Ce fichier est le résultat de la prédiction de la tm en fonction de la séquence
